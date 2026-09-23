@@ -18,7 +18,7 @@ A tabela abaixo centraliza o acesso a todos os projetos práticos e laboratório
 | **`Versionamento_de_Codigo-WebDesign`** | Repositório focado exclusivamente na prática de comandos Git e fluxos no GitHub. | [📁 Repositório](https://github.com/luk4s1104/Versionamento_de_Codigo-WebDesign) |
 | **`Fundamentos_de_HTML_e_CSSinline-WebDesign`** | Estudo de tags semânticas, formatação de textos, cabeçalhos e estilização inline inicial. | [📁 Repositório](https://github.com/luk4s1104/Fundamentos_de_HTML_e_CSSinline-WebDesign) |
 | **`Fundamentos_HTML_Midia-WebDesign`** | Exercício cobrindo elementos básicos, inserção de mídias (imagens, áudio, vídeo), formulários e tabelas. | [📁 Repositório](https://github.com/luk4s1104/Fundamentos_HTML_Midia-WebDesign) <br> [📎 Resultado Prático](https://tarefa04-web-design.vercel.app/) |
-| **`SEO-WebDesign`** | Otimização técnica (SEO), auditoria de PageRank, inclusão de metadados estruturados (Open Graph), além de práticas de CSS interno e inline. | [📁 Repositório](https://github.com/luk4s1104/SEO-WebDesign) <br> [📎 Resultado Prático](https://seo-web-design-six.vercel.app/) |
+| **`SEO-WebDesign`** | Otimização técnica (SEO), auditoria de PageRank, inclusão de metadados estruturados (Open Graph), além de práticas de CSS interno e inline. Códifo protótipo para o Projeto-WebDesign | [📁 Repositório](https://github.com/luk4s1104/SEO-WebDesign) <br> [📎 Resultado Prático](https://seo-web-design-six.vercel.app/) |
 
 
 
